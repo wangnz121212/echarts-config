@@ -1,0 +1,13 @@
+{
+    "name": "bean/echarts-config",
+    "description": "ECHARTS CONFIG",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangnz",
+            "email": "wangnz@aliyun.com"
+        }
+    ],
+    "require": {}
+}
