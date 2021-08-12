@@ -9,5 +9,8 @@
             "email": "wangnz@aliyun.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/support": "^8.54",
+        "symfony/var-dumper": "^5.3"
+    }
 }
